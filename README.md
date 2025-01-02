@@ -15,6 +15,6 @@ This repo outlines key elements of Windows Local and Domain Accounts.<br />
 		<p>Click on Control Panel -> User Accounts</p>
 		<p>Then make user account changes you want</p>
     	<b>OR</b>
-	Click on Start (blue box at bottom left of task bar on Windows 11) 
-	Type “run” in Search Box and click on Run
-	Click “Ok” when “lusrmgr.msc” pop-up box appears and make account setting changes
+		<p>Click on Start (blue box at bottom left of task bar on Windows 11)</p>
+		<p>Type “run” in Search Box and click on Run</p>
+		<p>Click “Ok” when “lusrmgr.msc” pop-up box appears and make account setting changes</p>
