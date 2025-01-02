@@ -1,5 +1,5 @@
 <h1>Local and Domain Accounts</h1>>
-This repo outlines key elements of Windows Local and Domain Accounts.<br />
+This repo outlines key elements of <b>Windows Local and Domain Accounts</b>.<br />
 	<h2>Local Account</h2> 
  		One user on one PC, with one username and one password</h2>
 	<h2>Domain Account</h2> 
