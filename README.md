@@ -6,9 +6,8 @@ This repo outlines key elements of Windows Local and Domain Accounts.<br />
  		Allows many users to log onto a PC by using a Domain Controller (server) to store all of the many different Users and their Usernames and Passwords.</h2>
 	<h2>Domain Controller Directory</h2> 
  		Acts like a phone book to record all of the different Users and their Permissions, along with their Usernames and Passwords.</h2>
-
 	<h2>Administering Local User Accounts</h2>	
- 		This link is a very helpful resource for implementing and maintaining Local User Accounts:
+ 		This link is a very helpful resource for implementing and maintaining Local User Accounts.</h2>
    		https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts</h2>
 
 Administering Local User Accounts
