@@ -1,4 +1,4 @@
-<h1>Local and Domain Accounts</h1>h1>
+<h1>Local and Domain Accounts</h1>>
 	Local Account - one user on one PC, with one username and one password
 	Domain Account - allows many users to log onto a PC by using a Domain Controller (server) to store all of the many different Users and their Usernames and Passwords
 	Domain Controller Directory - acts like a phone book to record all of the different Users and their Permissions, along with their Usernames and Passwords
