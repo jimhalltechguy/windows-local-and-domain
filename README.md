@@ -9,12 +9,11 @@ This repo outlines key elements of Windows Local and Domain Accounts.<br />
 	<h2>Administering Local User Accounts</h2>	
  		This link is a very helpful resource for implementing and maintaining Local User Accounts.</h2>
    		https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts</h2>
-
-Administering Local User Accounts
-	Click on Start (blue box at bottom left of task bar on Windows 11)
-		Type “control panel” in Search Box
-		Click on Control Panel -> User Accounts 
-		Then make user account changes you want
+	<h2>Administering Local User Accounts</h2>
+		Click on Start (blue box at bottom left of task bar on Windows 11)</h2>
+			Type “control panel” in Search Box
+			Click on Control Panel -> User Accounts 
+			Then make user account changes you want
     OR
 	Click on Start (blue box at bottom left of task bar on Windows 11) 
 	Type “run” in Search Box and click on Run
