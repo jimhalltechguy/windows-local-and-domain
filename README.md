@@ -8,7 +8,7 @@ This repo outlines key elements of Windows Local and Domain Accounts.<br />
  		Acts like a phone book to record all of the different Users and their Permissions, along with their Usernames and Passwords.</h2>
 
 	<h2>Administering Local User Accounts</h2>	
- 		This link is a very helpful resource for implementing and maintaining Local User Accounts:
+ 		This link is a very helpful resource for implementing and maintaining Local User Accounts:</h2>
    		https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts
 
 Administering Local User Accounts
