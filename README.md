@@ -10,11 +10,11 @@ This repo outlines key elements of <b>Windows Local and Domain Accounts</b>.<br 
  		This link is a very helpful resource for implementing and maintaining Local User Accounts</h2>
    		<p>https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts</p>
 	<h2>Administering Local User Accounts</h2>
-		<p>Click on Start (blue box at bottom left of task bar on Windows 11)</p>
-		<p>Type “control panel” in Search Box</p>
-		<p>Click on Control Panel -> User Accounts</p>
+		<p>Click on <b>Start</b> (blue box at bottom left of task bar on Windows 11)</p>
+		<p>Type “<b>control panel</b>” in <b>Search Box</b></p>
+		<p>Click on <b>Control Panel</b> -> <b>User Accounts</b></p>
 		<p>Then make user account changes you want</p>
     	<b><p>OR</b></p>
-		<p>Click on Start (blue box at bottom left of task bar on Windows 11)</p>
-		<p>Type “run” in Search Box and click on Run</p>
-		<p>Click “Ok” when “lusrmgr.msc” pop-up box appears and make account setting changes</p>
+		<p>Click on <b>Start</b> (blue box at bottom left of task bar on Windows 11)</p>
+		<p>Type “<b>run</b>” in <b>Search Box</b> and click on <b>Run</b></p>
+		<p>Click “<b>Ok</b>” when “lusrmgr.msc” pop-up box appears and make account setting changes</p>
