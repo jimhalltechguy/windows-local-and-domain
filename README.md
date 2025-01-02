@@ -1,8 +1,8 @@
 <h1>Local and Domain Accounts</h1>>
 This repo outlines key elements of Windows Local and Domain Accounts.<br />
-	Local Account - one user on one PC, with one username and one password
-	Domain Account - allows many users to log onto a PC by using a Domain Controller (server) to store all of the many different Users and their Usernames and Passwords
-	Domain Controller Directory - acts like a phone book to record all of the different Users and their Permissions, along with their Usernames and Passwords
+	- Local Account - one user on one PC, with one username and one password
+	- Domain Account - allows many users to log onto a PC by using a Domain Controller (server) to store all of the many different Users and their Usernames and Passwords
+	- Domain Controller Directory - acts like a phone book to record all of the different Users and their Permissions, along with their Usernames and Passwords
 
 Administering Local User Accounts	https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts
 
